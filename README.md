@@ -12,7 +12,7 @@ Automatically turns off your microphone and camera before joining. Automatic log
 Always joins the newest meeting and leaves either after a specified time, if you are the last person in the meeting or only if a new one is available (see [Configuration options](#configuration-options) for more information).
 I also made a short tutorial video on how to setup the bot: https://youtu.be/YgkSOqfIjf4
 
-
+aaa
 ## Prerequisites  
   
  - Python3 ([Download](https://www.python.org/downloads/))  
